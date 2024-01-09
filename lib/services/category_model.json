@@ -1,0 +1,103 @@
+{
+  "categories": [
+    {
+      "name": "Women Dress",
+      "subcategories": [
+        "Wedding & Event",
+        "Tops & Sets",
+        "Watches",
+        "Wedding & Event",
+        "Tops & Sets",
+        "Watches"
+      ]
+    },
+    {
+      "name": "Men Clothing and Fashion",
+      "subcategories": [
+        "Outwears & Jackets",
+        "Formal dress",
+        "Accessories",
+        "Outwears & Jackets",
+        "Formal dress",
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Computer & Accessories",
+      "subcategories": [
+        "Laptop",
+        "Gaming PC",
+        "Company PC",
+        "Laptop",
+        "Gaming PC",
+        "Company PC"
+      ]
+    },
+    {
+      "name": "Automobile",
+      "subcategories": [
+        "Cars",
+        "Bikes",
+        "Jeep",
+        "Cars",
+        "Bikes",
+        "Jeep"
+      ]
+    },
+    {
+      "name": "Kids & Toys",
+      "subcategories": [
+        "Boys toys",
+        "Girls toys",
+        "Bags & Shoes",
+        "Boys toys",
+        "Girls toys",
+        "Bags & Shoes"
+      ]
+    },
+    {
+      "name": "Sports",
+      "subcategories": [
+        "Cycling",
+        "Skater board",
+        "Badminton",
+        "Cycling",
+        "Skater board",
+        "Badminton"
+      ]
+    },
+    {
+      "name": "Jewelery",
+      "subcategories": [
+        "Necklace",
+        "Earing",
+        "Gold",
+        "Necklace",
+        "Earing",
+        "Gold"
+      ]
+    },
+    {
+      "name": "Cellphones & Tabs",
+      "subcategories": [
+        "Smartphones",
+        "Tablets",
+        "Accessories",
+        "Smartphones",
+        "Tablets",
+        "Accessories"
+      ]
+    },
+    {
+      "name": "Furniture",
+      "subcategories": [
+        "Sofa",
+        "Bed",
+        "Pillow",
+        "Sofa",
+        "Bed",
+        "Pillow"
+      ]
+    }
+  ]
+}
